@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/focus-AI%20%7C%20Fullstack%20%7C%20Research-2E90FA?style=flat-square" alt="focus" />
 </p>
 
-<h2 align="center">Hi, I am Liu Yukun</h2>
+<h2 align="center">Hi, I am C-ocona</h2>
 
 <p align="center">
   I build useful software, explore AI-native workflows, and turn ideas into polished interfaces.
